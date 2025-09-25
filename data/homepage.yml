@@ -1,0 +1,203 @@
+head:
+  title: "Valentina Cabarcas"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hola, soy Valentina Cabarcas."
+  subtitle: "Estudiante universitaria"
+  description: "Soy estudiante de ingeniería industrial de 18 años, actualmente cursando en cuarto semestre en la Universidad del Magdalena."
+  image:
+    x: "img/showcase/vale.gif"
+    _2x: "img/showcase/vale.gif"
+  imageMobile:
+    x: "img/showcase/vale.gif"
+    _2x: "img/showcase/vale.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Matt"
+    URL: "mailto:valecabarcas09@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/valentina-cabarcas-a85001340%22"
+
+    - icon: "github"
+      URL: "valecabarcas09@gmail.com"
+
+    - icon: "twitter"
+      URL: "https://x.com/valcabarcas?s=11%22"
+
+
+    - icon: "youtube"
+      URL: "http://www.youtube.com/@ValentinaCabarcas-kr1uy%22%22"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/valcabarcas/%22%22"
+
+ 
+
+# about
+about:
+  enable: true
+  title: "¿Quién soy?"
+  content: 
+    <p class="lead">
+    <strong>A medida que pasan los semestre me enamoro más de la carrera que escogí.</strong> A pesar de no haber escogido ingeniería industrial por gusto siento que no me equivoqué en mi decisión,Me gusta porque combina lógica, creatividad y estrategia para resolver problemas reales que impactan positivamente en las organizaciones y en la sociedad.
+    </p>
+    
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/valentina-cabarcas-a85001340%22"
+  image:
+    x: "img/who-am-i/funciona.jpg"
+    _2x: "img/who-am-i/funciona.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experiencia"
+  description: "Como estudiante de cuarto semestre de Ingeniería Industrial, he adquirido una sólida base en áreas fundamentales como matemáticas aplicadas, física, estadística, he desarrollado habilidades analíticas, pensamiento crítico y capacidad para trabajar en equipo, esenciales para enfrentar los retos del entorno industrial."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/valentina-cabarcas-a85001340%22"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://docs.google.com/document/d/1wt7zl5qVKzmVwAB49xFhEgUYUbJZF7cpELa3_VEt66c/edit?usp=sharing"
+
+
+# education
+education:
+  enable: true
+  title: "Educación"
+  items:
+    - university: "Institución educativa San José"
+      year: "2012-2017"
+      
+
+    - university: "Institución educativa departamental Liceo Pivijay"
+      year: "2018-2023"
+     
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portafolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Análisis estdístico"
+      description: "El análisis estadístico realizado tuvo como objetivo identificar patrones, relaciones y tendencias significativas dentro de los datos recolectados. Para ello, se aplicaron diversas técnicas de estadística descriptiva e inferencial que permitieron transformar los datos en información útil para la toma de decisiones y la comprensión del fenómeno estudiado."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Análisis estadístico"
+        URL: "https://docs.google.com/document/d/1FY_LlA2k5gB1mB_47FFaua1CDyeBScNTjjyT2I2GC-g/edit?usp=sharing"
+      image:
+        x: "img/works/yes.jpg"
+        _2x: "img/works/yes.jpg"
+      is_even: true
+
+    
+      is_even: false
+
+    
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonios"
+  items:
+  
+    - name: "José Rúa Argota"
+      position: "Estudiante de ingeniería industrial"
+      content: "Se destaca por su disciplina, inteligencia y capacidad de trabajar en equipo, incluso en situaciones de presión. Extrovertida y divertida, combina la amabilidad con la empatía, manteniendo siempre una actitud transparente y resiliente frente a los retos académicos y personales.
+"
+      image:
+        x: "img/testimonials/jose.jpg"
+        _2x: "img/testimonials/jose.jpg"
+        
+    - name: "Estrella Bonett Bolaños"
+      position: "Estudiante de medicina"
+      content: "Valentina es una persona carismática y cercana, alguien que transmite calidez y confianza desde el primer encuentro. Su solidaridad y amabilidad se reflejan en cada gesto, y su franqueza la convierte en alguien directo, sin rodeos ni disfraces. Sabe cuándo mantener la seriedad, pero lo que más la caracteriza es su alegría contagiosa: siempre con una sonrisa, compartiendo chistes y logrando que quienes la rodean se sientan más livianos y felices."
+      image:
+        x: "img/testimonials/estrella.jpg"
+        _2x: "img/testimonials/estrella.jpg"
+
+    
+
+    - name: "Daniela Reyes Pardo"
+      position: "Ingeniera ambiental sanitarial"
+      content: "Valentina se caracteriza por su compromiso, pensamiento analítico y entusiasmo por aplicar sus conocimientos en entornos reales que impulsen la eficiencia y la innovación."
+      image:
+        x: "img/testimonials/Daniela.jpg"
+        _2x: "img/testimonials/Daniela.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact Matt"
+    
+  image:
+    x: "img/who-am-i/funciona.jpg"
+    _2x: "img/who-am-i/funciona.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:valecabarcas09email@gmail.com'
+    
+  phone:
+    title: "Número de teléfono"
+    number: "3147218365"
+  email:
+    title: "Email"
+    email: '<a href="mailto:valecabarcas09@gmail.com">valecabarcas09@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "Carrera29/calle21B F3-11"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
